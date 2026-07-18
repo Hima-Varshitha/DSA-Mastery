@@ -71,10 +71,9 @@ DSA-Mastery
 - Divide and Conquer
 
 
-# 💻 Programming Languages
+# 💻 Programming Language
 
 - Java
-- Python
 
 
 # 🎯 Goal
