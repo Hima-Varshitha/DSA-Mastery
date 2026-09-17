@@ -1,5 +1,5 @@
 import java.util.*;
-class Solution {
+class Code {
     public static void main(String[] args){
         System.out.println(generate(5));
     }
