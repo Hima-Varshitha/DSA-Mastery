@@ -19,5 +19,18 @@ public class Code{
             // max((present cash + cash of 2 bags ago), (cash of 1 bag ago))
         }
         return dp[n-1];
+
+
+
+        // Method 1
+
+        // int previousLoot = 0, currentLoot = 0;
+        // for(int cash : nums){
+        //     int newLoot = Math.max(cash + previousLoot, currentLoot);
+        //     // max((present cash + cash of 2 bags ago), (cash of 1 bag ago))
+        //     previousLoot = currentLoot;
+        //     currentLoot = newLoot;
+        // }
+        // return currentLoot;
     }
 }
